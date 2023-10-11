@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/nutharay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nutharay" height="30" width="40" /></a>
 </p>
 
-[![@nuthara22's Holopin board](https://holopin.me/nuthara22)](https://holopin.io/@nuthara22)
 [![An image of @nuthara22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nuthara22)](https://holopin.io/@nuthara22)
 
 <h3 align="left">Languages and Tools:</h3>
